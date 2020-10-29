@@ -1,2 +1,7 @@
 # 3070-check
-Run ./run.sh
+
+```npm install```
+
+```./run.sh```
+
+sound only on windows
